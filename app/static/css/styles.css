@@ -73,6 +73,10 @@ section {
     max-width: 1200px;
 }
 
+p {
+    color: #d3d3d3;
+}
+
 #contact input, #contact textarea {
     width: 100%;
     padding: 10px;
